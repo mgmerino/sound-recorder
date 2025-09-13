@@ -3,7 +3,7 @@
 
 This is an experiment about AI-based learning process.
 
-The idea is to vibe code an simple program (in this case, an audio recorder),
+The idea is to vibe code a simple program (in this case, an audio recorder),
 and then manually annotate (using AI to explore the concepts) every line in
 the source code, explaining what it does and why does it that way. I expect to
 push myself to get into Linux Systems Programming and get a bit of knowledge
